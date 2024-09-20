@@ -1,0 +1,5 @@
+__pycache__/
+*.log
+catboost_info/
+mlruns/
+notebook/et_pipeline.pkl
